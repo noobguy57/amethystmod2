@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "TestOre",
+        "name": "TestOre",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["noobguy57"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
