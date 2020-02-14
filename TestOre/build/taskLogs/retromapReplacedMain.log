@@ -1,0 +1,79 @@
+Processing 5 files
+Start Processing: me/noobguy/testore/TestOre.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: me.noobguy.testore.init.ModBlocks
+Import: me.noobguy.testore.init.ModItems
+Import: net.minecraft.block.Block
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+End  Processing: me/noobguy/testore/TestOre.java
+
+Start Processing: me/noobguy/testore/blocks/BlockBasic.java
+FOUND CONSTR method me/noobguy/testore/blocks/BlockBasic/BlockBasic (Ljava/lang/String;Lnet/minecraft/block/material/Material;)V me/noobguy/testore/blocks/BlockBasic
+Rename method net/minecraft/block/Block/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/block/Block;[258,275]::setTranslationKey->func_149663_c
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+End  Processing: me/noobguy/testore/blocks/BlockBasic.java
+
+Start Processing: me/noobguy/testore/init/ModBlocks.java
+New Key: class net/minecraftforge/fml/common/Mod
+Rename field net/minecraft/block/material/Material/ROCK[855,859]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[871,882]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[891,905]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[918,933]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[933,946]::setLightLevel->func_149715_a
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1506,1522]::getItemFromBlock->func_150898_a
+Import: me.noobguy.testore.TestOre
+Import: me.noobguy.testore.blocks.BlockBasic
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+End  Processing: me/noobguy/testore/init/ModBlocks.java
+
+Start Processing: me/noobguy/testore/init/ModItems.java
+New Key: class net/minecraftforge/fml/common/Mod
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[719,733]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[745,749]::MISC->field_78026_f
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: me.noobguy.testore.TestOre
+Import: me.noobguy.testore.items.ItemBasic
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+End  Processing: me/noobguy/testore/init/ModItems.java
+
+Start Processing: me/noobguy/testore/items/ItemBasic.java
+FOUND CONSTR method me/noobguy/testore/items/ItemBasic/ItemBasic (Ljava/lang/String;)V me/noobguy/testore/items/ItemBasic
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[158,175]::setTranslationKey->func_77655_b
+Import: net.minecraft.item.Item
+End  Processing: me/noobguy/testore/items/ItemBasic.java
+

@@ -1,0 +1,249 @@
+Unsupposrted library path: C:\Users\Scott\Desktop\TestOre\build\classes\java\api
+Unsupposrted library path: C:\Users\Scott\Desktop\TestOre\build\resources\api
+Symbol range map extraction starting
+Processing 5 files
+startProcessing "me/noobguy/testore/TestOre.java" md5: a56dd62bd77314aeb7f1e83400246e25
+@|me/noobguy/testore/TestOre.java|8|26|me.noobguy.testore|package|me.noobguy.testore|(file)
+Class Start: me.noobguy.testore.TestOre
+   @|me/noobguy/testore/TestOre.java|603|606|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|me/noobguy/testore/TestOre.java|616|621|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|me/noobguy/testore/TestOre.java|624|631|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|632|638|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+   @|me/noobguy/testore/TestOre.java|648|652|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|me/noobguy/testore/TestOre.java|655|662|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|663|671|MOD_NAME|field|me.noobguy.testore.TestOre|MOD_NAME
+   @|me/noobguy/testore/TestOre.java|681|688|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|me/noobguy/testore/TestOre.java|691|698|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|699|706|VERSION|field|me.noobguy.testore.TestOre|VERSION
+   @|me/noobguy/testore/TestOre.java|722|729|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|757|763|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|757|763|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|764|770|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID|
+   @|me/noobguy/testore/TestOre.java|808|814|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|808|814|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|815|823|MOD_NAME|field|me.noobguy.testore.TestOre|MOD_NAME|
+   @|me/noobguy/testore/TestOre.java|861|867|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|861|867|String|class|java.lang.String|false
+   @|me/noobguy/testore/TestOre.java|868|875|VERSION|field|me.noobguy.testore.TestOre|VERSION|
+   @|me/noobguy/testore/TestOre.java|1039|1046|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|1000|1012|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|me/noobguy/testore/TestOre.java|1013|1019|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+   @|me/noobguy/testore/TestOre.java|1039|1046|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/TestOre.java|1047|1055|INSTANCE|field|me.noobguy.testore.TestOre|INSTANCE|
+   Method Start: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1302|1307|event|param|me.noobguy.testore.TestOre|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/noobguy/testore/TestOre.java|1235|1251|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|me/noobguy/testore/TestOre.java|1268|1275|preinit|method|me.noobguy.testore.TestOre|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1276|1301|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|me/noobguy/testore/TestOre.java|1319|1327|ModItems|class|me.noobguy.testore.init.ModItems|false
+      @|me/noobguy/testore/TestOre.java|1328|1332|init|method|me.noobguy.testore.init.ModItems|init|()V
+      @|me/noobguy/testore/TestOre.java|1344|1353|ModBlocks|class|me.noobguy.testore.init.ModBlocks|false
+      @|me/noobguy/testore/TestOre.java|1354|1358|init|method|me.noobguy.testore.init.ModBlocks|init|()V
+   Method End: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1524|1529|event|param|me.noobguy.testore.TestOre|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|me/noobguy/testore/TestOre.java|1463|1479|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|me/noobguy/testore/TestOre.java|1496|1500|init|method|me.noobguy.testore.TestOre|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1501|1523|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1716|1721|event|param|me.noobguy.testore.TestOre|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|me/noobguy/testore/TestOre.java|1647|1663|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|me/noobguy/testore/TestOre.java|1680|1688|postinit|method|me.noobguy.testore.TestOre|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/noobguy/testore/TestOre.java|1689|1715|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+   Class Start: me.noobguy.testore.TestOre.Blocks
+      @|me/noobguy/testore/TestOre.java|1875|1900|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+      @|me/noobguy/testore/TestOre.java|1901|1907|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+      @|me/noobguy/testore/TestOre.java|1933|1939|Blocks|class|me.noobguy.testore.TestOre.Blocks|false
+   Class End  : me.noobguy.testore.TestOre.Blocks
+   Class Start: me.noobguy.testore.TestOre.Items
+      @|me/noobguy/testore/TestOre.java|2215|2240|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+      @|me/noobguy/testore/TestOre.java|2241|2247|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+      @|me/noobguy/testore/TestOre.java|2273|2278|Items|class|me.noobguy.testore.TestOre.Items|false
+   Class End  : me.noobguy.testore.TestOre.Items
+   Class Start: me.noobguy.testore.TestOre.ObjectRegistryHandler
+      @|me/noobguy/testore/TestOre.java|2653|2675|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+      @|me/noobguy/testore/TestOre.java|2700|2721|ObjectRegistryHandler|class|me.noobguy.testore.TestOre.ObjectRegistryHandler|false
+      Method Start: addItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|me/noobguy/testore/TestOre.java|2904|2909|event|param|me.noobguy.testore.TestOre.ObjectRegistryHandler|addItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|me/noobguy/testore/TestOre.java|2824|2838|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|me/noobguy/testore/TestOre.java|2866|2874|addItems|method|me.noobguy.testore.TestOre.ObjectRegistryHandler|addItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|me/noobguy/testore/TestOre.java|2875|2897|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+         @|me/noobguy/testore/TestOre.java|2898|2902|Item|class|net.minecraft.item.Item|false
+      Method End: addItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      Method Start: addBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|me/noobguy/testore/TestOre.java|3350|3355|event|param|me.noobguy.testore.TestOre.ObjectRegistryHandler|addBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|me/noobguy/testore/TestOre.java|3268|3282|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|me/noobguy/testore/TestOre.java|3310|3319|addBlocks|method|me.noobguy.testore.TestOre.ObjectRegistryHandler|addBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|me/noobguy/testore/TestOre.java|3320|3342|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+         @|me/noobguy/testore/TestOre.java|3343|3348|Block|class|net.minecraft.block.Block|false
+      Method End: addBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Class End  : me.noobguy.testore.TestOre.ObjectRegistryHandler
+Class End  : me.noobguy.testore.TestOre
+endProcessing "me/noobguy/testore/TestOre.java"
+
+startProcessing "me/noobguy/testore/blocks/BlockBasic.java" md5: 2afdf51b2a1afa8dcf812a4ad9d9b0a8
+@|me/noobguy/testore/blocks/BlockBasic.java|8|33|me.noobguy.testore.blocks|package|me.noobguy.testore.blocks|(file)
+Class Start: me.noobguy.testore.blocks.BlockBasic
+   @|me/noobguy/testore/blocks/BlockBasic.java|135|145|BlockBasic|class|me.noobguy.testore.blocks.BlockBasic|false
+   @|me/noobguy/testore/blocks/BlockBasic.java|154|159|Block|class|net.minecraft.block.Block|false
+   Method Start: BlockBasic(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|me/noobguy/testore/blocks/BlockBasic.java|194|198|name|param|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|me/noobguy/testore/blocks/BlockBasic.java|209|217|material|param|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|me/noobguy/testore/blocks/BlockBasic.java|176|186|BlockBasic|method|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|me/noobguy/testore/blocks/BlockBasic.java|187|193|String|class|java.lang.String|false
+      @|me/noobguy/testore/blocks/BlockBasic.java|200|208|Material|class|net.minecraft.block.material.Material|false
+      @|me/noobguy/testore/blocks/BlockBasic.java|238|246|material|param|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|me/noobguy/testore/blocks/BlockBasic.java|258|275|setTranslationKey|method|net.minecraft.block.Block|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|me/noobguy/testore/blocks/BlockBasic.java|276|280|name|param|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|me/noobguy/testore/blocks/BlockBasic.java|292|307|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|me/noobguy/testore/blocks/BlockBasic.java|308|312|name|param|me.noobguy.testore.blocks.BlockBasic|BlockBasic|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+   Method End: BlockBasic(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+Class End  : me.noobguy.testore.blocks.BlockBasic
+endProcessing "me/noobguy/testore/blocks/BlockBasic.java"
+
+startProcessing "me/noobguy/testore/init/ModBlocks.java" md5: c341d47c67096c05ebea0676d05e5a09
+@|me/noobguy/testore/init/ModBlocks.java|8|31|me.noobguy.testore.init|package|me.noobguy.testore.init|(file)
+Class Start: me.noobguy.testore.init.ModBlocks
+   @|me/noobguy/testore/init/ModBlocks.java|664|686|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|me/noobguy/testore/init/ModBlocks.java|687|692|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|me/noobguy/testore/init/ModBlocks.java|694|701|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/init/ModBlocks.java|702|708|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+   @|me/noobguy/testore/init/ModBlocks.java|724|733|ModBlocks|class|me.noobguy.testore.init.ModBlocks|false
+   @|me/noobguy/testore/init/ModBlocks.java|750|755|Block|class|net.minecraft.block.Block|false
+   @|me/noobguy/testore/init/ModBlocks.java|750|755|Block|class|net.minecraft.block.Block|false
+   @|me/noobguy/testore/init/ModBlocks.java|756|764|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst|
+   Method Start: init()V
+      @|me/noobguy/testore/init/ModBlocks.java|792|796|init|method|me.noobguy.testore.init.ModBlocks|init|()V
+      @|me/noobguy/testore/init/ModBlocks.java|808|816|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+      @|me/noobguy/testore/init/ModBlocks.java|823|833|BlockBasic|class|me.noobguy.testore.blocks.BlockBasic|false
+      @|me/noobguy/testore/init/ModBlocks.java|846|854|Material|class|net.minecraft.block.material.Material|false
+      @|me/noobguy/testore/init/ModBlocks.java|855|859|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|me/noobguy/testore/init/ModBlocks.java|861|872|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|me/noobguy/testore/init/ModBlocks.java|879|893|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|me/noobguy/testore/init/ModBlocks.java|894|906|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|me/noobguy/testore/init/ModBlocks.java|907|922|BUILDING_BLOCKS|field|net.minecraft.creativetab.CreativeTabs|BUILDING_BLOCKS
+      @|me/noobguy/testore/init/ModBlocks.java|924|937|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+      @|me/noobguy/testore/init/ModBlocks.java|952|960|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+      @|me/noobguy/testore/init/ModBlocks.java|961|976|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: init()V
+   Method Start: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1089|1094|event|param|me.noobguy.testore.init.ModBlocks|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModBlocks.java|1005|1019|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|me/noobguy/testore/init/ModBlocks.java|1044|1058|registerBlocks|method|me.noobguy.testore.init.ModBlocks|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1059|1081|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|me/noobguy/testore/init/ModBlocks.java|1082|1087|Block|class|net.minecraft.block.Block|false
+      @|me/noobguy/testore/init/ModBlocks.java|1107|1112|event|param|me.noobguy.testore.init.ModBlocks|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModBlocks.java|1113|1124|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|me/noobguy/testore/init/ModBlocks.java|1127|1138|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1139|1147|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+   Method End: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerItemBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1250|1255|event|param|me.noobguy.testore.init.ModBlocks|registerItemBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModBlocks.java|1163|1177|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|me/noobguy/testore/init/ModBlocks.java|1202|1220|registerItemBlocks|method|me.noobguy.testore.init.ModBlocks|registerItemBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1221|1243|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|me/noobguy/testore/init/ModBlocks.java|1244|1248|Item|class|net.minecraft.item.Item|false
+      @|me/noobguy/testore/init/ModBlocks.java|1268|1273|event|param|me.noobguy.testore.init.ModBlocks|registerItemBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModBlocks.java|1274|1285|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|me/noobguy/testore/init/ModBlocks.java|1288|1299|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1304|1313|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|me/noobguy/testore/init/ModBlocks.java|1314|1322|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+      @|me/noobguy/testore/init/ModBlocks.java|1324|1339|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|me/noobguy/testore/init/ModBlocks.java|1340|1348|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+      @|me/noobguy/testore/init/ModBlocks.java|1349|1364|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerItemBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerRenders(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1459|1464|event|param|me.noobguy.testore.init.ModBlocks|registerRenders|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|me/noobguy/testore/init/ModBlocks.java|1385|1399|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|me/noobguy/testore/init/ModBlocks.java|1424|1439|registerRenders|method|me.noobguy.testore.init.ModBlocks|registerRenders|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1440|1458|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|me/noobguy/testore/init/ModBlocks.java|1477|1491|registerRender|method|me.noobguy.testore.init.ModBlocks|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1492|1496|Item|class|net.minecraft.item.Item|false
+      @|me/noobguy/testore/init/ModBlocks.java|1497|1513|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|me/noobguy/testore/init/ModBlocks.java|1514|1522|Amethyst|field|me.noobguy.testore.init.ModBlocks|Amethyst
+   Method End: registerRenders(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: registerRender(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1581|1585|item|param|me.noobguy.testore.init.ModBlocks|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModBlocks.java|1561|1575|registerRender|method|me.noobguy.testore.init.ModBlocks|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1576|1580|Item|class|net.minecraft.item.Item|false
+      @|me/noobguy/testore/init/ModBlocks.java|1598|1609|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|me/noobguy/testore/init/ModBlocks.java|1610|1640|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|me/noobguy/testore/init/ModBlocks.java|1641|1645|item|param|me.noobguy.testore.init.ModBlocks|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModBlocks.java|1654|1675|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|me/noobguy/testore/init/ModBlocks.java|1677|1681|item|param|me.noobguy.testore.init.ModBlocks|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModBlocks.java|1682|1697|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerRender(Lnet/minecraft/item/Item;)V
+Class End  : me.noobguy.testore.init.ModBlocks
+endProcessing "me/noobguy/testore/init/ModBlocks.java"
+
+startProcessing "me/noobguy/testore/init/ModItems.java" md5: 7a13a008e0c9de6a6425616a7a3f5b61
+@|me/noobguy/testore/init/ModItems.java|8|31|me.noobguy.testore.init|package|me.noobguy.testore.init|(file)
+Class Start: me.noobguy.testore.init.ModItems
+   @|me/noobguy/testore/init/ModItems.java|542|564|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|me/noobguy/testore/init/ModItems.java|565|570|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|me/noobguy/testore/init/ModItems.java|572|579|TestOre|class|me.noobguy.testore.TestOre|false
+   @|me/noobguy/testore/init/ModItems.java|580|586|MOD_ID|field|me.noobguy.testore.TestOre|MOD_ID
+   @|me/noobguy/testore/init/ModItems.java|602|610|ModItems|class|me.noobguy.testore.init.ModItems|false
+   @|me/noobguy/testore/init/ModItems.java|625|629|Item|class|net.minecraft.item.Item|false
+   @|me/noobguy/testore/init/ModItems.java|625|629|Item|class|net.minecraft.item.Item|false
+   @|me/noobguy/testore/init/ModItems.java|630|637|newItem|field|me.noobguy.testore.init.ModItems|newItem|
+   Method Start: init()V
+      @|me/noobguy/testore/init/ModItems.java|665|669|init|method|me.noobguy.testore.init.ModItems|init|()V
+      @|me/noobguy/testore/init/ModItems.java|683|690|newItem|field|me.noobguy.testore.init.ModItems|newItem
+      @|me/noobguy/testore/init/ModItems.java|697|706|ItemBasic|class|me.noobguy.testore.items.ItemBasic|false
+      @|me/noobguy/testore/init/ModItems.java|719|733|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|me/noobguy/testore/init/ModItems.java|734|746|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|me/noobguy/testore/init/ModItems.java|747|751|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+   Method End: init()V
+   Method Start: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModItems.java|849|854|event|param|me.noobguy.testore.init.ModItems|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModItems.java|767|781|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|me/noobguy/testore/init/ModItems.java|806|819|registerItems|method|me.noobguy.testore.init.ModItems|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me/noobguy/testore/init/ModItems.java|820|842|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|me/noobguy/testore/init/ModItems.java|843|847|Item|class|net.minecraft.item.Item|false
+      @|me/noobguy/testore/init/ModItems.java|867|872|event|param|me.noobguy.testore.init.ModItems|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me/noobguy/testore/init/ModItems.java|873|884|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|me/noobguy/testore/init/ModItems.java|887|898|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|me/noobguy/testore/init/ModItems.java|899|906|newItem|field|me.noobguy.testore.init.ModItems|newItem
+   Method End: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerRenders(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me/noobguy/testore/init/ModItems.java|996|1001|event|param|me.noobguy.testore.init.ModItems|registerRenders|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|me/noobguy/testore/init/ModItems.java|922|936|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|me/noobguy/testore/init/ModItems.java|961|976|registerRenders|method|me.noobguy.testore.init.ModItems|registerRenders|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me/noobguy/testore/init/ModItems.java|977|995|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|me/noobguy/testore/init/ModItems.java|1014|1028|registerRender|method|me.noobguy.testore.init.ModItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModItems.java|1029|1036|newItem|field|me.noobguy.testore.init.ModItems|newItem
+   Method End: registerRenders(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: registerRender(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModItems.java|1093|1097|item|param|me.noobguy.testore.init.ModItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModItems.java|1073|1087|registerRender|method|me.noobguy.testore.init.ModItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/noobguy/testore/init/ModItems.java|1088|1092|Item|class|net.minecraft.item.Item|false
+      @|me/noobguy/testore/init/ModItems.java|1110|1121|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|me/noobguy/testore/init/ModItems.java|1122|1152|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|me/noobguy/testore/init/ModItems.java|1153|1157|item|param|me.noobguy.testore.init.ModItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModItems.java|1166|1187|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|me/noobguy/testore/init/ModItems.java|1189|1193|item|param|me.noobguy.testore.init.ModItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/noobguy/testore/init/ModItems.java|1194|1209|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerRender(Lnet/minecraft/item/Item;)V
+Class End  : me.noobguy.testore.init.ModItems
+endProcessing "me/noobguy/testore/init/ModItems.java"
+
+startProcessing "me/noobguy/testore/items/ItemBasic.java" md5: d33aa0f7cdd8df4cb88446c8e8355884
+@|me/noobguy/testore/items/ItemBasic.java|8|32|me.noobguy.testore.items|package|me.noobguy.testore.items|(file)
+Class Start: me.noobguy.testore.items.ItemBasic
+   @|me/noobguy/testore/items/ItemBasic.java|85|94|ItemBasic|class|me.noobguy.testore.items.ItemBasic|false
+   @|me/noobguy/testore/items/ItemBasic.java|103|107|Item|class|net.minecraft.item.Item|false
+   Method Start: ItemBasic(Ljava/lang/String;)V
+      @|me/noobguy/testore/items/ItemBasic.java|141|145|name|param|me.noobguy.testore.items.ItemBasic|ItemBasic|(Ljava/lang/String;)V|name|0
+      @|me/noobguy/testore/items/ItemBasic.java|124|133|ItemBasic|method|me.noobguy.testore.items.ItemBasic|ItemBasic|(Ljava/lang/String;)V
+      @|me/noobguy/testore/items/ItemBasic.java|134|140|String|class|java.lang.String|false
+      @|me/noobguy/testore/items/ItemBasic.java|158|175|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|me/noobguy/testore/items/ItemBasic.java|176|180|name|param|me.noobguy.testore.items.ItemBasic|ItemBasic|(Ljava/lang/String;)V|name|0
+      @|me/noobguy/testore/items/ItemBasic.java|192|207|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|me/noobguy/testore/items/ItemBasic.java|208|212|name|param|me.noobguy.testore.items.ItemBasic|ItemBasic|(Ljava/lang/String;)V|name|0
+   Method End: ItemBasic(Ljava/lang/String;)V
+Class End  : me.noobguy.testore.items.ItemBasic
+endProcessing "me/noobguy/testore/items/ItemBasic.java"
+

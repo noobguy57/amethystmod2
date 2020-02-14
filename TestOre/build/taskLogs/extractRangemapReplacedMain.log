@@ -1,0 +1,19 @@
+Unsupposrted library path: C:\Users\Scott\Desktop\TestOre\build\classes\java\api
+Unsupposrted library path: C:\Users\Scott\Desktop\TestOre\build\resources\api
+Symbol range map extraction starting
+Processing 5 files
+startProcessing "me/noobguy/testore/TestOre.java" md5: a56dd62bd77314aeb7f1e83400246e25
+endProcessing "me/noobguy/testore/TestOre.java"
+
+startProcessing "me/noobguy/testore/blocks/BlockBasic.java" md5: 2afdf51b2a1afa8dcf812a4ad9d9b0a8
+endProcessing "me/noobguy/testore/blocks/BlockBasic.java"
+
+startProcessing "me/noobguy/testore/init/ModBlocks.java" md5: c341d47c67096c05ebea0676d05e5a09
+endProcessing "me/noobguy/testore/init/ModBlocks.java"
+
+startProcessing "me/noobguy/testore/init/ModItems.java" md5: 7a13a008e0c9de6a6425616a7a3f5b61
+endProcessing "me/noobguy/testore/init/ModItems.java"
+
+startProcessing "me/noobguy/testore/items/ItemBasic.java" md5: d33aa0f7cdd8df4cb88446c8e8355884
+endProcessing "me/noobguy/testore/items/ItemBasic.java"
+
